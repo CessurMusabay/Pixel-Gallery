@@ -1,0 +1,12 @@
+@import './base.css';
+
+
+
+
+#app {
+    margin-top: 1rem;
+}
+
+.el-header{
+    height: auto !important;
+}
